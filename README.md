@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-netrunner&label=Profile%20views&color=1c71d8&style=flat" alt="a-netrunner" /> </p>
 
-- 🌱 I’m currently learning **i forgo....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
