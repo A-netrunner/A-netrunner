@@ -79,25 +79,8 @@
 - Cloud Native Technologies
 - Open Source
 
-## GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=a-netrunner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-netrunner&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=a-netrunner&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-netrunner&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-netrunner&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
 
 <h3 align="center">
-  Thanks for visiting my profile! Feel free to check out my repositories and connect with me. :3
+   :3
 </h3>
